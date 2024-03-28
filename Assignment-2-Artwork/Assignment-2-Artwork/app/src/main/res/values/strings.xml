@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="neom_description" />
+    <string name="university_description" />
+    <string name="cake_description" />
+    <string name="neom" />
+    <string name="university" />
+    <string name="cake" />
+    <string name="app_name" />
+</resources>
